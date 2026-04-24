@@ -1,0 +1,23 @@
+{
+  "name": "dev-environment-check",
+  "version": "1.0.0",
+  "description": "dev-environment-check json package file",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grahamklick/dev-environment-check.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/grahamklick/dev-environment-check/issues"
+  },
+  "homepage": "https://github.com/grahamklick/dev-environment-check#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
